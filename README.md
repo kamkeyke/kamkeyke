@@ -43,13 +43,13 @@
 
 <div align="center">
   <a href="https://ko-fi.com/kamkeyke" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+    <img src="https://i.imgur.com/rrKrrZL.png" width="45" height="45" alt="ko-fi logo"  />
   </a>
   <a href="https://linktr.ee/kamkeyke" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+    <img src="https://i.imgur.com/O2g1wMb.png" width="45" height="45" alt="linktree logo"  />
   </a>
   <a href="https://www.twitch.tv/kamkeyke" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://i.imgur.com/fvNRIvk.png" width="45" height="45" alt="twitch logo"  />
   </a>
 </div>
 
