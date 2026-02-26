@@ -30,8 +30,30 @@
 
 <p align="left">
   <ul>
-    <li><b>PermaFrost:</b> A mod that would serve to complement the experience of an SMP that I was going to create with some friends. I started it through a tutorial, so there may be some strange things in older versions</li>
-    <li><b>Kindergarten:</b> A mod in which I add the children I had in SMPs as mobs in the game. Due to the lore and likings of each child, it depends on some other mods to add interactivity. (I'm still a little stuck on this one)</li>
+    <li>
+      <b>🦝 RaccoonCore:</b> A base library designed to unify and optimize the infrastructure of my Forge mods. 
+      It reduces boilerplate code and provides reusable utilities such as a server-side scheduler, 
+      custom command argument types, and time utilities.
+    </li>
+    <li>
+      <b>🕵️ SelectiveVanish (SVanish):</b> A server-side add-on for VanishMod that allows selective visibility control. 
+      Instead of relying on Minecraft’s /team system, it uses its own SavedData system to manage who can see vanished players — 
+      perfect for SMPs and roleplay-focused servers.
+    </li>
+    <li>
+      <b>❤️ Heart Pouch:</b> A quality-of-life addon for the Heartstone mod. 
+      It lets players store and manage multiple Heartstones in a bundle-like item, 
+      with scroll-based selection.
+    </li>
+    <li>
+      <b>❄️ PermaFrost:</b> A mod that would serve to complement the experience of an SMP that I was going to create with some friends.
+      I started it through a tutorial, so there may be some weird things in older versions.
+    </li>
+    <li>
+      <b>🧸 Kindergarten:</b> A mod where I add characters from SMPs i've been as in-game mobs, 
+      with behavior and interactions inspired by their lore and personality. 
+      (I'm still a little stuck on this one).
+    </li>
   </ul>
 </p>
 
