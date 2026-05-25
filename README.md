@@ -73,6 +73,12 @@
   <a href="https://www.twitch.tv/kamkeyke" target="_blank">
     <img src="https://i.imgur.com/fvNRIvk.png" width="45" height="45" alt="twitch logo"  />
   </a>
+  <a href="https://www.curseforge.com/members/kamkeyke/projects" target="_blank">
+    <img src="https://i.imgur.com/TG4gP9m.png" width="45" height="45" alt="twitch logo"  />
+  </a>
+  <a href="https://modrinth.com/user/KamKeyke" target="_blank">
+    <img src="https://i.imgur.com/UOvNQXi.png" width="45" height="45" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
