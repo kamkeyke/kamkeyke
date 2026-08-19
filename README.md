@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">📌 Projects</h2>
+<h2 align="left">📌 Public Projects</h2>
 
 ###
 
@@ -44,15 +44,6 @@
       <b>❤️ Heart Pouch:</b> A quality-of-life addon for the Heartstone mod. 
       It lets players store and manage multiple Heartstones in a bundle-like item, 
       with scroll-based selection.
-    </li>
-    <li>
-      <b>❄️ PermaFrost:</b> A mod that would serve to complement the experience of an SMP that I was going to create with some friends.
-      I started it through a tutorial, so there may be some weird things in older versions.
-    </li>
-    <li>
-      <b>🧸 Kindergarten:</b> A mod where I add characters from SMPs i've been as in-game mobs, 
-      with behavior and interactions inspired by their lore and personality. 
-      (I'm still a little stuck on this one).
     </li>
   </ul>
 </p>
