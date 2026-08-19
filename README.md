@@ -17,7 +17,6 @@
     <li>Currently working on no projects, I'm busy with some personal things.</li>
     <li>Learning Forge, but I intend to migrate to NeoForge.</li>
     <li>My codes will probably be chaotic and inefficient, but I'm learning, have mercy on me.</li>
-    <li>For now, all my repositories are private, but one day I'll make them public.</li>
   </ul>
   Oh, and I also have a Twitch channel where every now and then I do some streams playing games with my friends while speaking my native language (Portuguese).
 </p>
